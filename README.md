@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0006-zigzag-conversion) |
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
