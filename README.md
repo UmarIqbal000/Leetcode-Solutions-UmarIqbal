@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0575-distribute-candies) |
+| [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
+| [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
