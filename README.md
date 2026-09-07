@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0575-distribute-candies) |
+| [0724-find-pivot-index](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
