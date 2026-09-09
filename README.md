@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0575-distribute-candies) |
+| [0859-buddy-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0859-buddy-strings) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
+| [0859-buddy-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0859-buddy-strings) |
 ## Sliding Window
 |  |
 | ------- |
