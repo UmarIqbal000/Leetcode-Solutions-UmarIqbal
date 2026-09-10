@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
 | [0859-buddy-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0859-buddy-strings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
