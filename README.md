@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0859-buddy-strings) |
 ## Sliding Window
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
