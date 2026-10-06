@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
+| [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -92,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
 ## Sorting
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
