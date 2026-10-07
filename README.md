@@ -66,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0004-median-of-two-sorted-arrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
