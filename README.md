@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0566-reshape-the-matrix) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 ## Counting Sort
 |  |
@@ -151,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
