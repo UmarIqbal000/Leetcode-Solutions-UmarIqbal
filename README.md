@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
