@@ -8,7 +8,9 @@
  */
 class Solution {
     public void deleteNode(ListNode node) {
-        node.val = node.next.val; // Overwrite data of next node on current node
-        node.next = node.next.next; // Make current node point to next node
+        // Copy the next node's value into the current node
+        node.val = node.next.val;
+        // Bypass and unlink the next node
+        node.next = node.next.next;
     }
 }
