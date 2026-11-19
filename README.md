@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0010-regular-expression-matching) |
 | [0203-remove-linked-list-elements](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0005-longest-palindromic-substring) |
+| [0234-palindrome-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0443-string-compression) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
