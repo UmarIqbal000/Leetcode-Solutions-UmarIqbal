@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0035-search-insert-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
