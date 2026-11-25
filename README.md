@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0575-distribute-candies) |
 | [0859-buddy-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0859-buddy-strings) |
+| [1122-relative-sort-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1122-relative-sort-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -240,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0225-implement-stack-using-queues) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
