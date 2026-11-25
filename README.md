@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1122-relative-sort-array) |
