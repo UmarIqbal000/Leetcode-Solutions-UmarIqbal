@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0283-move-zeroes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0766-toeplitz-matrix) |
