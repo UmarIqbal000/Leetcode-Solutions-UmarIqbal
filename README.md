@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0605-can-place-flowers) |
+| [0661-image-smoother](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0766-toeplitz-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
