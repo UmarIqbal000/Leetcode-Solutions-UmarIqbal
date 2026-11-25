@@ -2,12 +2,11 @@ class Solution {
     public boolean backspaceCompare(String s, String t) {
         int i = s.length() - 1;
         int j = t.length() - 1;
-        
         int skipS = 0;
         int skipT = 0;
 
         while (i >= 0 || j >= 0) {
-            // Find the next valid character in s
+            // Advance i to the next surviving character in s
             while (i >= 0) {
                 if (s.charAt(i) == '#') {
                     skipS++;
@@ -20,7 +19,7 @@ class Solution {
                 }
             }
 
-            // Find the next valid character in t
+            // Advance j to the next surviving character in t
             while (j >= 0) {
                 if (t.charAt(j) == '#') {
                     skipT++;
@@ -33,13 +32,13 @@ class Solution {
                 }
             }
 
-            // If both characters are found, compare them
+            // Compare current surviving characters (if both pointers are in bounds)
             if (i >= 0 && j >= 0) {
                 if (s.charAt(i) != t.charAt(j)) {
                     return false;
                 }
             } else if (i >= 0 || j >= 0) {
-                // One string still has valid characters while the other doesn't
+                // One string still has a surviving character while the other is exhausted
                 return false;
             }
 
