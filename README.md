@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
@@ -181,9 +183,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0605-can-place-flowers) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
