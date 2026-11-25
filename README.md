@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0824-goat-latin) |
