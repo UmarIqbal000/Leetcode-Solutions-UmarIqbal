@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0344-reverse-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
