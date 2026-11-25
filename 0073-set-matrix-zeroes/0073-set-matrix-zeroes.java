@@ -6,7 +6,7 @@ class Solution {
         boolean firstRowZero = false;
         boolean firstColZero = false;
 
-        // scan first ROW across columns
+        
         for (int j = 0; j < n; j++) {
             if (matrix[0][j] == 0) {
                 firstRowZero = true;
@@ -14,9 +14,9 @@ class Solution {
             }
         }
 
-        // scan first COLUMN down rows
+       
         for (int i = 0; i < m; i++) {
-            if (matrix[i][0] == 0) {   // <-- was matrix[0][i]
+            if (matrix[i][0] == 0) {   
                 firstColZero = true;
                 break;
             }
