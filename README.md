@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0925-long-pressed-name) |
 | [1544-make-the-string-great](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1544-make-the-string-great) |
 ## Sliding Window
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
