@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1051-height-checker) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0605-can-place-flowers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
