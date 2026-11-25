@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0566-reshape-the-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0977-squares-of-a-sorted-array) |
