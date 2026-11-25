@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0141-linked-list-cycle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0160-intersection-of-two-linked-lists) |
