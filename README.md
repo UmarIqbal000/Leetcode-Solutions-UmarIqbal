@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0859-buddy-strings) |
+| [1544-make-the-string-great](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1544-make-the-string-great) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1544-make-the-string-great) |
 ## Bit Manipulation
 |  |
 | ------- |
