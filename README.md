@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0739-daily-temperatures) |
@@ -221,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
