@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0905-sort-array-by-parity) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0074-search-a-2d-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/UmarIqbal000/Leetcode-Solutions-UmarIqbal/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
